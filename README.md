@@ -1,4 +1,4 @@
-<h1 align="center">Hello World, My name is HameedKoh</h1>
+<h1 align="center">Hello World, My name is DevHameed</h1>
 <h3 align="center">In a world filled with noise, i aim to build meaningful systems</h3>
 
 - 🌱 I’m currently learning **Reinforcement Learning from Human Feedback**
